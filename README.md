@@ -58,6 +58,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [My Abandonware](https://www.myabandonware.com/): Download abandonware games from 1978-2010.
 * [Oldgames Download](https://oldgamesdownload.com/): Archival website with a database of abandonware from the 70s to early 2000s, including Arcade, C64, DOS, PlayStation, Sega, Windows and more.
 * [CheapShark](https://www.cheapshark.com/): Compare the prices of many games across stores.
+* [i'm bored](https://www.im-bored.cool/): I'm bored. Let's fix that in 10 seconds.
 
 ## ❤️  Health & Exercise
 
@@ -76,6 +77,7 @@ Make sure to ⭐ [star the repo on github](https://github.com/marcopaganini/cool
 * [remove.bg](https://www.remove.bg/): Uses AI to remove the background of pictures. Does an incredible job, but the free version is limited to low resolution images.
 * [tldraw.com](https://www.tldraw.com/): A simple, no frills vector based online sketching page.
 * [tinyPNG](https://tinypng.com): Smart WebP, PNG, and JPEG compression.
+* [photobooth](https://www.1photobooth.net/): Free online photo booth — no app download, instant results
 
 ## 🌐 Internet Life
 
